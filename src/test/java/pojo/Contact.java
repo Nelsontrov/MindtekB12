@@ -1,6 +1,5 @@
 package pojo;
 
-
 import lombok.Getter;
 import lombok.Setter;
 
@@ -11,4 +10,5 @@ public class Contact {
     private String name;
     private String value;
     private String type;
+
 }

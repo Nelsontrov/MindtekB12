@@ -7,7 +7,6 @@ import java.util.List;
 
 @Getter
 @Setter
-
 public class DriverRequest {
 
     private String full_name;
@@ -23,4 +22,5 @@ public class DriverRequest {
     private List<Contact> contacts_skype;
     private List<Contact> contacts_viber;
     private List<Contact> contacts_other;
+
 }
